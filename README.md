@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Zibrovka
+- 👀 I’m interested in project management.
+- 🌱 I’m currently learning agile methodologies.
+- 💞️ I’m looking to collaborate on interesting and exciting projects.
+- 📫 You can reach me by telegram @zibrovka.
